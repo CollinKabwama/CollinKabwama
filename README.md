@@ -51,7 +51,7 @@ Building **ai-sentinel** and related patterns: **policy at the edge of the JVM**
 
 **LinkedIn:** [linkedin.com/in/collin-kabwama](https://www.linkedin.com/in/collin-kabwama/)
 
-**Certifications:** AWS · CKAD (verified on Credly)
+**Certifications (Credly):** [AWS Solutions Architect – Associate](https://www.credly.com/badges/9f98eca8-e0dc-4e91-b52e-20afbc9902ee/public_url) · [AWS Security – Specialty](https://www.credly.com/badges/4a7d4514-3ed3-4634-ad1e-621f6b46ebc0/public_url) · [CKAD](https://www.credly.com/badges/33b721f2-98a4-48dc-86ea-eb018211582c/public_url)
 
 ---
 
