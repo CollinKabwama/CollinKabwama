@@ -22,6 +22,11 @@ I design and ship systems where **correctness under failure**, **clear operation
 
 *Comfortable with:* IAM/VPC-style boundaries, container images and cluster ops, horizontal scaling, API design, performance-sensitive hot paths.
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CollinKabwama&show_icons=true&theme=default&hide_rank=false" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CollinKabwama&theme=default" alt="GitHub streak" height="165" />
+</p>
+
 ---
 
 ### Flagship: [ai-sentinel](https://github.com/CollinKabwama/ai-sentinel)
@@ -52,10 +57,3 @@ Building **ai-sentinel** and related patterns: **policy at the edge of the JVM**
 **LinkedIn:** [linkedin.com/in/collin-kabwama](https://www.linkedin.com/in/collin-kabwama/)
 
 **Certifications (Credly):** [AWS Solutions Architect – Associate](https://www.credly.com/badges/9f98eca8-e0dc-4e91-b52e-20afbc9902ee/public_url) · [AWS Security – Specialty](https://www.credly.com/badges/4a7d4514-3ed3-4634-ad1e-621f6b46ebc0/public_url) · [CKAD](https://www.credly.com/badges/33b721f2-98a4-48dc-86ea-eb018211582c/public_url)
-
----
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=CollinKabwama&show_icons=true&theme=default&hide_rank=false" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CollinKabwama&theme=default" alt="GitHub streak" height="165" />
-</p>
