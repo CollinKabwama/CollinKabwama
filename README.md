@@ -43,7 +43,7 @@ I design and ship systems where **correctness under failure**, **clear operation
 
 ### Now
 
-Building **ai-sentinel** and related patterns: **policy at the edge of the JVM**, safe optional distribution, and measurable operational behavior.
+Building **ai-sentinel** and related patterns: **policy at the edge of the JVM**, safe optional distribution, and measurable runtime behavior.
 
 ---
 
@@ -59,3 +59,4 @@ Building **ai-sentinel** and related patterns: **policy at the edge of the JVM**
   <img src="https://github-readme-stats.vercel.app/api?username=CollinKabwama&show_icons=true&theme=default&hide_rank=false" alt="GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CollinKabwama&theme=default" alt="GitHub streak" />
 </p>
+
