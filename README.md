@@ -45,6 +45,8 @@ I design and ship systems where **correctness under failure**, **clear operation
 
 Building **ai-sentinel** and related patterns: **policy at the edge of the JVM**, safe optional distribution, and measurable operational behavior in production-like environments.
 
+Open to **backend/platform engineering** opportunities focused on reliability, security, and distributed systems.
+
 ---
 
 ### Contact
