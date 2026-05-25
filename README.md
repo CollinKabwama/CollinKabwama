@@ -43,7 +43,7 @@ I design and ship systems where **correctness under failure**, **clear operation
 
 ### Now
 
-Building [**ai-sentinel**](https://github.com/CollinKabwama/ai-sentinel) and related patterns: **policy at the edge of the JVM**, safe optional distribution, and measurable operational behavior in production-like environments.
+Building **ai-sentinel** and related patterns: **policy at the edge of the JVM**, safe optional distribution, and measurable operational behavior in production-like environments.
 
 ---
 
